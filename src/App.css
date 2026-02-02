@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.subject-item{
+  list-style: none;
+}
+
+.app-container{
+  background-color: cadetblue;
+  justify-content: center;
+  text-align: center;
+}
+
